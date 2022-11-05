@@ -71,4 +71,5 @@ Create a html file with the content
 </html>
 ```
 The output:
+
 ![screenshoot](screen.png "screenshoot")
